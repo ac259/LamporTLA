@@ -1,2 +1,2 @@
-# TLA_Plus
-TLA+ examples and modelling 
+# TLA+ PlusCal 
+Model Checking using TLA+ and PlusCal. 
